@@ -1,0 +1,14 @@
+{
+  "name": "beans",
+  "version": "1.0.0",
+  "description": "__A realtime collaborative to-do app made using [Polymer 1.0](https://www.polymer-project.org/1.0/) and [PubNub](http://www.pubnub.com/).__",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anas",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
